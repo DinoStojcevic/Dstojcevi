@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+// Ovo je promjena koju sam napravio
 
 public class DlgPregledKorisnika extends JDialog {
 
